@@ -15,3 +15,13 @@ https://bitcoin.org/bitcoin.pdf Bitcoin White Paper by Satoshi Nakamoto
 Buying Bitcoin
 
 https://blockchainhub.net/how-to-buy-bitcoin/
+
+ICO (initial coin offering) Watchlist
+
+https://icowatchlist.com/live
+
+Ethereum
+https://github.com/ethereum/wiki/wiki/White-Paper A Next-Generation Smart Contract and Decentralized Application Platform
+
+Coding
+https://dappsforbeginners.wordpress.com/ Create your first smart contract and Decentralized applications.
