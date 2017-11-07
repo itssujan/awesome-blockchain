@@ -15,3 +15,7 @@ https://bitcoin.org/bitcoin.pdf Bitcoin White Paper by Satoshi Nakamoto
 Buying Bitcoin
 
 https://blockchainhub.net/how-to-buy-bitcoin/
+
+ICO (initial coin offering) Watchlist
+
+https://icowatchlist.com/live
